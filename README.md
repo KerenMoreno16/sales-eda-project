@@ -148,7 +148,7 @@ streamlit run app.py
 
 
 ```markdown
-![Dashboard Preview](./sales-dashboard/images/Dashboard1.png)
+![Dashboard Preview](/sales-dashboard/images/Dashboard1.png)
 ```
 ---
 
