@@ -1,3 +1,5 @@
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard1.png)
+![Dashboard](images/Dashboard2.png)
+![Dashboard](images/Dashboard3.png)
