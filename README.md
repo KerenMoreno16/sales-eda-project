@@ -146,10 +146,9 @@ streamlit run app.py
 
 # Dashboard Preview
 
-Add your dashboard screenshot here.
 
 ```markdown
-![Dashboard Preview](sales-dashboard/images/Dashboard1.png)
+![Dashboard Preview](./sales-dashboard/images/Dashboard1.png)
 ```
 ---
 
