@@ -1,4 +1,4 @@
-#Retail Sales Analytics Project
+# Retail Sales Analytics Project
 
 An end-to-end data analytics project focused on exploratory data analysis (EDA) and interactive dashboard development using retail sales data.
 
