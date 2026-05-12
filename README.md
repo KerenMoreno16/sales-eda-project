@@ -146,7 +146,7 @@ streamlit run app.py
 
 # Dashboard Preview
 
-![Dashboard Preview](./images/Dashboard1.png)
+![Dashboard Preview](./sales-dashboard/images/Dashboard1.png)
 
 ---
 
